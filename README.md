@@ -129,7 +129,7 @@ This project is extended for hackathon submission with improved visualization an
 
 ## 💬 Key Insight
 
-**“Best channel does not mean strongest signal — it means least interference.”**
+**“Best channel does not only mean strongest signal — it also means least interference.”**
 
 ---
 
